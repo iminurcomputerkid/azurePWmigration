@@ -3,7 +3,7 @@ __________________SECURE  PASSWORD MANAGER 🔐__________________
 
 (CURRENTLY BETA)
 
-A Python-based password manager that encrypts credentials and securely stores them in a Turso DB.
+A Python-based password manager that encrypts credentials and securely stores them in a Private DB.
 
 __________________Key Features__________________
 
